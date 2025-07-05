@@ -1,1 +1,0 @@
-# Extrator_de_palavras_chave
